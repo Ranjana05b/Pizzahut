@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+nav img {
+    width: 200px;
+    height: auto;
+    position: absolute;
+    right: 80vw;
+}
+
+.a{
+    background-color: whitesmoke;
+    float: right;
+    margin: 10px;
+    padding-right: 5vw;
+    padding-top: 2vh;   
+}
+
+a:link {
+    color: rgba(128, 128, 128, 0.625);
+    
+}
+a:hover{
+text-underline-offset: bottom;
+
+}
+
+main img {
+    width: 100vw;
+    position: absolute;
+    top: 10vh;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 40vh;
+    position: absolute;
+    top: 100vh;
+}
+
+.b{
+    float: left;
+}
+
+.a1 {
+    float: left;
+}
+
+.a2 {
+    float: left;
+    width: auto;
+    height: ;
+}
+
+.a3 {
+    float: left;
+}
+
+.b {
+    font-size: 12px;
+    position: absolute;
+    top: 20vh;
+    text-align: center;
+
+}
